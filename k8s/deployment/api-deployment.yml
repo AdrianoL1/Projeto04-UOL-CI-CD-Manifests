@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: books-api
-        image: books-api:latest
+        image: books-api:v5
         ports:
         - containerPort: 8000
