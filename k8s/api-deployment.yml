@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: books-api
-        image: adrianol1/books-api:v8
+        image: adrianol1/books-api:v11
         ports:
         - containerPort: 8000
